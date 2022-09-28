@@ -34,7 +34,7 @@ const App = () => {
   }
 
   const handleMinusNumber = () => {
-
+  /*    */
     if(firstNumber == '0'){
       setFirstNumber(String(currentNumber));
       setCurrentNumber('0');
